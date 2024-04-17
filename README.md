@@ -1,3 +1,4 @@
+![datagrid](https://github.com/kumarchandan1997/Data-grid-package/assets/89054724/7c4af0e9-0d67-4d2c-8981-1f81d12c0653)
 # Custom DataGrid
 
 Custom DataGrid is a powerful Laravel package that simplifies the process of creating dynamic grids with minimal code. With features like Bootstrap 5 compatibility, CSV and TSV exporting, sorting, searching, and inline or bulk actions, managing tabular data becomes a breeze. This README will guide you through the installation and configuration process, ensuring you harness the full potential of Custom DataGrid.
