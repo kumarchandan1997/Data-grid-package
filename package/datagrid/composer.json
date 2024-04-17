@@ -1,0 +1,17 @@
+{
+    "name": "datagrid/src",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Datagrid\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nirav"
+        }
+    ],
+    "require": {},
+    "minimum-stability": "stable"
+}
